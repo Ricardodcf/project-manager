@@ -267,7 +267,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"name\": \"new project\",\r\n    \"description\": \"descripcion de ejemplo\",\r\n    \"start_time\": \"2021-02-13\"\r\n}",
+							"raw": "{\r\n    \"name\": \"new project 2\",\r\n    \"description\": \"descripcion de ejemplo\",\r\n    \"start_date\": \"2021-02-13\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -378,7 +378,7 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:20000/api/v1/projects/602898b9dda601385c5848eb",
+							"raw": "http://localhost:20000/api/v1/projects/60289cc556fa3a4850ca4d25",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -388,7 +388,7 @@
 								"api",
 								"v1",
 								"projects",
-								"602898b9dda601385c5848eb"
+								"60289cc556fa3a4850ca4d25"
 							]
 						}
 					},
